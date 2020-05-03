@@ -9,7 +9,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 
 
-imgPath = '/home/dell/downloads/flowr/flower1.jpg'
+imgPath = '/home/dell/downloads/flower/1.marguerite-729510__340.jpg'
 
 imgStatus = os.path.isfile(imgPath)					
 print(imgStatus)
