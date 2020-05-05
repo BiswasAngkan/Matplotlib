@@ -1,5 +1,4 @@
 # Angkan Biswas
-# Angkan Biswas
 # 05.05.2020
 # To binarize an image & its different color channels using thresholding
 
